@@ -1,0 +1,18 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "extensions.ignoreRecommendations": true,
+    "editor.minimap.enabled": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "editor.formatOnSave": false,
+    "[javascript]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "explorer.confirmDelete": false
+}
