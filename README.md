@@ -14,9 +14,9 @@ There is some setup you as the teacher, will need to do before getting started.
 
 ### Prereq's for teacher & each student
 
-- Install [VS Code](https://code.visualstudio.com).  You can use [my VS code preferences](./prereqs/vscode-prefs.json) if you like (`shift+cmd+p`, Preferences: Open Settings (JSON)).
-- Put `code` [command on your path](https://stackoverflow.com/a/39604469/563420)
-- Install VS code extensions via:
+- Install [VS Code](https://code.visualstudio.com).  You can use [my VS code preferences](./prereqs/vscode-prefs.json) if you like (⇧+⌘+P then `Preferences: Open Settings (JSON)`).
+- Put `code` command on your path: ⇧+⌘+P then `Shell Command: Install 'code' command in PATH`
+- Install VS code extensions via (make sure to restart your terminal after putting `code` on your PATH):
 ```
 code --install-extension esbenp.prettier-vscode
 code --install-extension jgoday.createtmpfile
@@ -26,6 +26,8 @@ code --install-extension ritwickdey.LiveServer
 - Clone this repo to `~/` (your home directory)
 
 ### Prereq's for teacher
+
+- Slies are [here](https://docs.google.com/presentation/d/1ZBV382xmKHYd6rEfKVmPTAwuuC0Ok2Nsl5CspRlGBlA/edit?usp=sharing) (bookmark it!)
 
 ### Prereq's for each student
 
