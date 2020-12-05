@@ -6,6 +6,10 @@ Throughout this project you'll see this:
 
 Which means I could use help from the community in the form of GitHub pull requests (PR) to make this project better.
 
+Here is how it all started ;)
+
+![alt text](./assets/whiteboard-ideas.jpg)
+
 ## Prerequisites
 
 There is some setup you as the teacher, will need to do before getting started.
@@ -24,6 +28,7 @@ code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension ritwickdey.LiveServer
 ```
 - Clone this repo to `~/` (your home directory)
+- [Install yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
 
 ### Prereq's for teacher
 
