@@ -27,7 +27,7 @@ code --install-extension ritwickdey.LiveServer
 
 ### Prereq's for teacher
 
-- Slies are [here](https://docs.google.com/presentation/d/1ZBV382xmKHYd6rEfKVmPTAwuuC0Ok2Nsl5CspRlGBlA/edit?usp=sharing) (bookmark it!)
+- Slides are [here](https://docs.google.com/presentation/d/1ZBV382xmKHYd6rEfKVmPTAwuuC0Ok2Nsl5CspRlGBlA/edit?usp=sharing) (bookmark it!)
 
 ### Prereq's for each student
 
