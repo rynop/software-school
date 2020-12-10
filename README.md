@@ -28,6 +28,7 @@ code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension ritwickdey.LiveServer
 ```
 - Clone this repo to `~/` (your home directory)
+- [Install nodejs](https://nodejs.org/tr/download/package-manager)
 - [Install yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
 
 ### Prereq's for teacher
