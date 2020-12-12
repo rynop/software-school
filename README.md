@@ -8,7 +8,7 @@ Which means I could use help from the community in the form of GitHub pull reque
 
 Here is how it all started ;)
 
-![alt text](./assets/whiteboard-ideas.jpg)
+![my whiteboard](./assets/whiteboard-ideas.jpg)
 
 ## Prerequisites
 
@@ -18,6 +18,8 @@ There is some setup you as the teacher, will need to do before getting started.
 
 ### Prereq's for teacher & each student
 
+- Setup a place to collaborate (even if doing this in person). You'll need a place to share links (like VS Code "live share" extension, mentioned below). I recommend [guilded.gg](https://www.guilded.gg) (full transparency: this is where I work. `rynop/software-school` is no way affiliated).  Slack, MS Teams, etc will all work as well.  Here is my Guilded setup:
+![alt text](./assets/guilded-server.png)
 - Install [VS Code](https://code.visualstudio.com).  You can use [my VS code preferences](./prereqs/vscode-prefs.json) if you like (⇧+⌘+P then `Preferences: Open Settings (JSON)`).
 - Put `code` command on your path: ⇧+⌘+P then `Shell Command: Install 'code' command in PATH`
 - Install VS code extensions via (make sure to restart your terminal after putting `code` on your PATH):
@@ -33,8 +35,11 @@ code --install-extension ritwickdey.LiveServer
 
 ### Prereq's for teacher
 
+- Github account
 - Slides are [here](https://docs.google.com/presentation/d/1ZBV382xmKHYd6rEfKVmPTAwuuC0Ok2Nsl5CspRlGBlA/edit?usp=sharing) (bookmark it!)
+- I recommend using VS Code ["Live share" extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack) to view/review/team code against student's VS Code IDE.  Set it up ahead of time (prereqs above already installed it for you), you will sign into the extension with your github account.  See the [docs](https://docs.microsoft.com/en-us/visualstudio/liveshare/) for more info on how to use this extension.
 
 ### Prereq's for each student
 
+- Open up VS Studio "Live share" extension, and login with your github account. If students have a github account, login with their credentials instead
 
