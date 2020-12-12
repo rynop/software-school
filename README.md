@@ -12,7 +12,7 @@ Here is how it all started ;)
 
 ## Prerequisites
 
-There is some setup you as the teacher, will need to do before getting started.
+Before getting started, there are some steps the teacher and each student will need to do.
 
 > Help needed: this school is setup for mac and linux computers. PR welcome for adding windows support.
 
