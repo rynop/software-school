@@ -41,5 +41,6 @@ code --install-extension ritwickdey.LiveServer
 
 ### Prereq's for each student
 
-- Open up VS Studio "Live share" extension, and login with your github account. If students have a github account, login with their credentials instead
+- A student github account is not required, but there is a lesson at the end of this school that covers it. To get started quickly, open up VS Studio "Live share" extension, and login with your github account. If students have a github account, login with their credentials instead
+- 
 
