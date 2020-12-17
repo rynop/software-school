@@ -20,7 +20,6 @@ Before getting started, there are some steps the teacher and each student will n
 
 - Slides are [here](https://docs.google.com/presentation/d/1ZBV382xmKHYd6rEfKVmPTAwuuC0Ok2Nsl5CspRlGBlA/edit?usp=sharing) (bookmark it!)
 - Github account
-- Extra credit/optional: AWS account
 
 #### Collaboration
 
@@ -44,6 +43,7 @@ code --install-extension jgoday.createtmpfile
 code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension ritwickdey.LiveServer
 ```
+> Note: I use the [LiveServer extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) here so students can have a web server built into the IDE that auto-refreshes when the file is changed.
 - Clone this repo to `~/` (your home directory)
 - [Install nodejs](https://nodejs.org/tr/download/package-manager)
 - [Install yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
