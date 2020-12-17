@@ -14,7 +14,7 @@ Here is how it all started ;)
 
 Before getting started, there are some steps the teacher and each student will need to do.
 
-> Help needed: this school is setup for mac and linux computers. PR welcome for adding windows support.
+> Help needed: this school is setup for mac (and linux sort-of) computers. PR welcome for adding windows support.
 
 ### Prereq's for teacher
 
