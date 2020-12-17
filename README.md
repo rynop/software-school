@@ -18,8 +18,9 @@ Before getting started, there are some steps the teacher and each student will n
 
 ### Prereq's for teacher
 
-- Github account
 - Slides are [here](https://docs.google.com/presentation/d/1ZBV382xmKHYd6rEfKVmPTAwuuC0Ok2Nsl5CspRlGBlA/edit?usp=sharing) (bookmark it!)
+- Github account
+- Extra credit/optional: AWS account
 
 #### Collaboration tooling
 
