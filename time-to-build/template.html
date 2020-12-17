@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Hello world</title>
+    <style>
+      /* Make images easier to work with */
+      img {
+        max-width: 100%;
+        display: block;
+      }
+      body {
+          background-color: black;
+          color: white;
+      }
+
+      @keyframes slideInFromRight {
+        0% {
+          transform: translateX(100%);
+        }
+        100% {
+          transform: translateX(0);
+        }
+      }
+      .car img {
+        border: 1px solid white;
+        animation: 1s ease-out 0s 1 slideInFromRight;
+        width: 300px;
+      }
+    </style>
+    <script></script>
+  </head>
+  <body>
+    HELLO WORLD
+    <div class="car"><img src="assets/c8.jpg" /></div>
+  </body>
+</html>
