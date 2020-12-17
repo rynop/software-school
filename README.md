@@ -22,10 +22,14 @@ Before getting started, there are some steps the teacher and each student will n
 - Github account
 - Extra credit/optional: AWS account
 
-#### Collaboration tooling
+#### Collaboration
+
+##### Chat
 
 Setup a place to collaborate (even if doing this in person). You'll need a place to share links (like VS Code "live share" extension, mentioned below). I recommend [guilded.gg](https://www.guilded.gg) (full transparency: this is where I work. `rynop/software-school` is no way affiliated).  Slack, MS Teams, etc will all work as well.  Here is my Guilded setup:
 ![alt text](./assets/guilded-server.png)
+
+##### Live/paired coding 
 
 I recommend using VS Code ["Live share" extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack) to view/edit  student's code right in their IDE (VS Code).  Set it up ahead of time (I'll install it for you below).  You will sign into the extension with your github account (unless each student has their own github account).  See the [live share docs](https://docs.microsoft.com/en-us/visualstudio/liveshare/) for more info on how to use this extension.
 
