@@ -65,8 +65,9 @@ You have a couple options for setting up an AWS account:
 
 ### AWS Setup
 
-Once you have an AWS account, [create an S3 bucket](https://docs.aws.amazon.com/AmazonS3/latest/dev/HowDoIWebsiteConfiguration.html) via the web console, make sure to allow public access.
+Once you have an AWS account: 
 
+1. create an [S3 bucket with static website hosting enabled](https://docs.aws.amazon.com/AmazonS3/latest/dev/HowDoIWebsiteConfiguration.html) via the web console, make sure to allow public access AND enable .
 1. Go into [IAM console](https://console.aws.amazon.com/iam/home) and make a user that your students will use to upload their files to your bucket.
     1. Hit "Add user", enter a name, select "Programmatic access" only
     1. Click "Create group", enter a name and hit "Create Group".  Keep hitting next to create user.
