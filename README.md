@@ -53,7 +53,7 @@ code --install-extension ritwickdey.LiveServer
 
 - 
 
-## Extra credit
+## Extra credit: AWS
 
 In lession 5, I touch on "the cloud".  At the end of this lesson I walk students through how to deploy the webpage they made "to the cloud".  This requires an AWS account AND basic knowledge (this is an entire curriculum on its own).
 
