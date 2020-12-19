@@ -68,7 +68,8 @@ You have a couple options for setting up an AWS account:
 Once you have an AWS account: 
 
 1. create an [S3 bucket with static website hosting enabled](https://docs.aws.amazon.com/AmazonS3/latest/dev/HowDoIWebsiteConfiguration.html) via the web console, make sure to allow public access AND enable .
-    1. From the S3 web console: click on your bucket and go to the "Properties" tab and scroll to the bottom. Under "Static website hosting" you should see a URL to your bucket. Upload an `index.html` page (make sure to set the permission as public) and make sure it works.
+    1. From the S3 web console: click on your bucket and go to the "Properties" tab and scroll to the bottom. Under "Static website hosting" you should see a URL to your bucket. Make note of the URL.
+    1. Upload an `index.html` page (make sure to set the permission as public) and make sure it works.
 1. Go into [IAM console](https://console.aws.amazon.com/iam/home) and make a user that your students will use to upload their files to your bucket.
     1. Hit "Add user", enter a name, select "Programmatic access" only
     1. Click "Create group", enter a name and hit "Create Group".  Keep hitting next to create user.
@@ -119,3 +120,11 @@ Make sure it works from their computer by running:
 aws s3 ls s3://<bucket-name>
 # If no error, you are good!
 ```
+
+Students will need to run the following command, so you can prep it ahead of time by replacing your values:
+
+```bash
+aws s3 cp . s3://<bucket-name>/<student-name>/ --recursive --acl public-read
+```
+
+The static website hosting url will be something like `http://<bucket>.s3-website-<region>.amazonaws.com/<student-name>/`
