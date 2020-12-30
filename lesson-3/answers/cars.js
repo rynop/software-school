@@ -2,31 +2,33 @@ class Car {
   topSpeed;
   color;
 
-  constructor(topSpeed, color) {
-    this.topSpeed = topSpeed;
-    this.color = color;
+  constructor(theTopSpeed, theColor) {
+    this.topSpeed = theTopSpeed;
+    this.color = theColor;
   }
 
-  summary() {
-    return `Top speed: ${this.topSpeed}, Color: ${this.color}`;
+  get about() {
+    return `Top speed: ${this.topSpeed} \n\t Color: ${this.color}`;
   }
 }
 
 class Ferrari extends Car {
   model;
+  horsePower;
 
-  constructor(model, topSpeed, color) {
+  constructor(topSpeed, color, theModel, theHorsePower) {
     super(topSpeed, color);
-    this.model = model;
+    this.model = theModel;
+    this.horsePower = theHorsePower;
   }
 
   summary() {
-    return `Model: ${this.model} \n\t Top speed: ${this.topSpeed} \n\t Color: ${this.color}`;
+    return `Model: ${this.model} \n\t BHP: ${this.horsePower} \n\t ${this.about}`;
   }
 }
 
-const laFerrari = new Ferrari("LaFerrari", 300, "yellow");
-const f50 = new Ferrari("F-50", 120, "red");
+const laFerrari = new Ferrari(220, "red", "LaFerrari", 949);
+const f50 = new Ferrari(201, "yellow", "F-50", 512);
 
 console.log(laFerrari.summary());
 console.log();

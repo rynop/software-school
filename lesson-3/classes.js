@@ -32,6 +32,7 @@ class Person {
 
 const p = new Person("Jane Doe", 32, "female");
 p.addInterest("swim");
+p.addInterest("swim");
 console.log(p.getDisplayName());
 console.log(p.displayName);
 console.log(p.bio());
