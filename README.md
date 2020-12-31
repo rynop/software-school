@@ -128,3 +128,9 @@ aws s3 cp . s3://<bucket-name>/<student-name>/ --recursive --acl public-read
 ```
 
 The static website hosting url will be something like `http://<bucket>.s3-website-<region>.amazonaws.com/<student-name>/`
+
+## Tips
+
+The real teaching/learning happens between the bullet points and after each slide.  Make sure to take lots of small breaks to switch out of the slides and do show-and-tell.
+
+I've tried to add some speaker notes, but ultimately you will need to understand the subject matter a bit to be effective.
