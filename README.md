@@ -10,7 +10,7 @@ Here is how it all started ;)
 
 ![my whiteboard](./assets/whiteboard-ideas.jpg)
 
-## Student projects
+# Student project gallery
 
 Coming soon. You can submit projects/websites that your studends made as a result of this class and I will post them here!
 
