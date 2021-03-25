@@ -10,6 +10,10 @@ Here is how it all started ;)
 
 ![my whiteboard](./assets/whiteboard-ideas.jpg)
 
+## Student projects
+
+Coming soon. You can submit projects/websites that your studends made as a result of this class and I will post them here!
+
 ## Prerequisites
 
 Before getting started, there are some steps the teacher and each student will need to do.
