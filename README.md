@@ -15,26 +15,24 @@ Projects/websites that students have made as a result of this class:
 
 # Prerequisites
 
-Before getting started, there are some steps the teacher will need to do.
+Before getting started, there are some steps the teacher will need to do
 
-## Prereq's for teacher
-
-- Presentation slides are [here](https://docs.google.com/presentation/d/1ZBV382xmKHYd6rEfKVmPTAwuuC0Ok2Nsl5CspRlGBlA/edit?usp=sharing) (bookmark it!)
+- Presentation slides can be found [here](https://docs.google.com/presentation/d/1ZBV382xmKHYd6rEfKVmPTAwuuC0Ok2Nsl5CspRlGBlA/edit?usp=sharing) (bookmark it!)
 > Note: updates/suggestions welcome. Just open an issue on this github repo
 - Optional: Github account, for using Visual Studio Code screen sharing / paired coding (see below)
 
-### Collaboration
+## Collaboration
 
-#### Chat
+### Chat
 
 Setup a place to collaborate (even if doing this in person). You'll need a place to share links (like VS Code "live share" extension, mentioned below). I recommend [guilded.gg](https://www.guilded.gg) (full transparency: this is where I work. `rynop/software-school` is no way affiliated).  Slack, MS Teams, etc will all work as well.  Here is my Guilded setup:
 ![alt text](./assets/guilded-server.png)
 
-#### Live/paired coding 
+### Live/paired coding 
 
 I recommend using VS Code ["Live share" extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack) to view/edit  student's code right in their IDE (VS Code).  Set it up ahead of time (I'll install it for you below).  You will sign into the extension with your github account (unless each student has their own github account).  See the [live share docs](https://docs.microsoft.com/en-us/visualstudio/liveshare/) for more info on how to use this extension.
 
-### Setup each computer (teacher and each student)
+## Setup each computer (teacher and each student)
 
 - Install [VS Code](https://code.visualstudio.com) IDE.  You can use [my VS code preferences](./prereqs/vscode-prefs.json) if you like (⇧+⌘+P then `Preferences: Open Settings (JSON)`).
 - Put `code` command on your path: ⇧+⌘+P then `Shell Command: Install 'code' command in PATH`
