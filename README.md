@@ -1,10 +1,6 @@
 # software-school
-Teaching software and internet basics to kids. Targeted towards 8YO+
 
-Throughout this project you'll see this:
-> Help needed:
-
-Which means I could use help from the community in the form of GitHub pull requests (PR) to make this project better.
+Teaching software and internet basics to kids. Targeted towards 8YO+. PRs welcome!
 
 Here is how it all started ;)
 
@@ -17,29 +13,28 @@ Projects/websites that students have made as a result of this class:
 1. [SafeBox](https://kids.pwebo.com/safebox/): A secure way to share web links with others
 2. [Seahorse Tank](https://kids.pwebo.com/seahorse-tank/): Dynamically add seahorses to a virtual aquarium
 
-# Teacher & Student Prerequisites
+# Prerequisites
 
-Before getting started, there are some steps the teacher and each student will need to do.
+Before getting started, there are some steps the teacher will need to do.
 
-> Help needed: this school is setup for mac (and linux sort-of) computers. PR welcome for adding windows support.
+## Prereq's for teacher
 
-### Prereq's for teacher
+- Presentation slides are [here](https://docs.google.com/presentation/d/1ZBV382xmKHYd6rEfKVmPTAwuuC0Ok2Nsl5CspRlGBlA/edit?usp=sharing) (bookmark it!)
+> Note: updates/suggestions welcome. Just open an issue on this github repo
+- Optional: Github account, for using Visual Studio Code screen sharing / paired coding (see below)
 
-- Slides are [here](https://docs.google.com/presentation/d/1ZBV382xmKHYd6rEfKVmPTAwuuC0Ok2Nsl5CspRlGBlA/edit?usp=sharing) (bookmark it!)
-- Github account
+### Collaboration
 
-#### Collaboration
-
-##### Chat
+#### Chat
 
 Setup a place to collaborate (even if doing this in person). You'll need a place to share links (like VS Code "live share" extension, mentioned below). I recommend [guilded.gg](https://www.guilded.gg) (full transparency: this is where I work. `rynop/software-school` is no way affiliated).  Slack, MS Teams, etc will all work as well.  Here is my Guilded setup:
 ![alt text](./assets/guilded-server.png)
 
-##### Live/paired coding 
+#### Live/paired coding 
 
 I recommend using VS Code ["Live share" extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack) to view/edit  student's code right in their IDE (VS Code).  Set it up ahead of time (I'll install it for you below).  You will sign into the extension with your github account (unless each student has their own github account).  See the [live share docs](https://docs.microsoft.com/en-us/visualstudio/liveshare/) for more info on how to use this extension.
 
-#### Setup each computer (teacher and each student)
+### Setup each computer (teacher and each student)
 
 - Install [VS Code](https://code.visualstudio.com) IDE.  You can use [my VS code preferences](./prereqs/vscode-prefs.json) if you like (⇧+⌘+P then `Preferences: Open Settings (JSON)`).
 - Put `code` command on your path: ⇧+⌘+P then `Shell Command: Install 'code' command in PATH`
@@ -55,12 +50,7 @@ code --install-extension ritwickdey.LiveServer
 - [Install nodejs](https://nodejs.org/tr/download/package-manager)
 - [Install yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
 
-
-### Prereq's for each student
-
-- 
-
-## Extra credit: AWS
+# Extra credit: AWS
 
 In lession 5, I touch on "the cloud".  At the end of this lesson I walk students through how to deploy the webpage they made "to the cloud".  This requires an AWS account AND basic knowledge (this is an entire curriculum on its own).
 
@@ -70,7 +60,7 @@ You have a couple options for setting up an AWS account:
 
 1. If you are a certified and active teacher, you can apply for [AWS Educate](https://aws.amazon.com/education/awseducate/).  I don't have a teaching degree, and have never went through this process so I'm not sure how painful it is or what exactly you get.  I do know that it mentions you get some AWS credits..
 
-### AWS Setup
+## AWS Setup
 
 Once you have an AWS account: 
 
@@ -136,7 +126,7 @@ aws s3 cp . s3://<bucket-name>/<student-name>/ --recursive --acl public-read
 
 The static website hosting url will be something like `http://<bucket>.s3-website-<region>.amazonaws.com/<student-name>/`
 
-## Tips
+# Tips
 
 The real teaching/learning happens between the bullet points and after each slide.  Make sure to take lots of small breaks to switch out of the slides and do show-and-tell.
 
