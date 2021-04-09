@@ -12,7 +12,9 @@ Here is how it all started ;)
 
 # Student project gallery
 
-Coming soon. You can submit projects/websites that your studends made as a result of this class and I will post them here!
+Projects/websites that students have made as a result of this class:
+
+1. [SafeBox](https://kids.pwebo.com/safebox/): A secure way to share web links with others
 
 # Teacher & Student Prerequisites
 
