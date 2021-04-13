@@ -13,7 +13,7 @@ Projects/websites that students have made as a result of this class:
 1. [SafeBox](https://kids.pwebo.com/safebox/): A secure way to share web links with others
 2. [Seahorse Tank](https://kids.pwebo.com/seahorse-tank/): Dynamically add seahorses to a virtual aquarium
 
-# Prerequisites
+# Presentation & Prerequisites
 
 To optimally teach this class, you should have a decent grasp of software development.
 
