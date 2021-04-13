@@ -19,7 +19,7 @@ To optimally teach this class, you should have a decent grasp of software develo
 
 - Presentation slides can be found [here](https://docs.google.com/presentation/d/1ZBV382xmKHYd6rEfKVmPTAwuuC0Ok2Nsl5CspRlGBlA/edit?usp=sharing) (bookmark it!)
 > Note: slide updates/suggestions welcome. Just open an issue on this github repo
-- Each kid needs a computer. Right now the lessons are for Mac only, but can be adapted for Windows (PRs welcome ;)
+- Each kid needs a computer. Right now the examples are for Mac only, but can be adapted for Windows (PRs welcome ;)
 - Optional: Github account, for using Visual Studio Code screen sharing / paired coding (see below)
 
 ## Collaboration
