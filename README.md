@@ -15,10 +15,11 @@ Projects/websites that students have made as a result of this class:
 
 # Prerequisites
 
-Before getting started, there are some steps the teacher will need to do
+To optimally teach this class, you should have a decent grasp of software development.
 
 - Presentation slides can be found [here](https://docs.google.com/presentation/d/1ZBV382xmKHYd6rEfKVmPTAwuuC0Ok2Nsl5CspRlGBlA/edit?usp=sharing) (bookmark it!)
-> Note: updates/suggestions welcome. Just open an issue on this github repo
+> Note: slide updates/suggestions welcome. Just open an issue on this github repo
+- Each kid needs a computer. Right now the lessons are for Mac only, but can be adapted for Windows (PRs welcome ;)
 - Optional: Github account, for using Visual Studio Code screen sharing / paired coding (see below)
 
 ## Collaboration
