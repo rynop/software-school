@@ -130,3 +130,7 @@ The static website hosting url will be something like `http://<bucket>.s3-websit
 The real teaching/learning happens between the bullet points and after each slide.  Make sure to take lots of small breaks to switch out of the slides and do show-and-tell.
 
 I've tried to add some speaker notes, but ultimately you will need to understand the subject matter a bit to be effective.
+
+# Further learning
+
+https://javascript.info is an amazing resource with a 2 part class all about JS
