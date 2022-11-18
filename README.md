@@ -133,4 +133,5 @@ I've tried to add some speaker notes, but ultimately you will need to understand
 
 # Further learning
 
-https://javascript.info is an amazing resource with a 2 part class all about JS
+1. https://javascript.info is an amazing resource with a 2 part class all about JS
+2. https://education.github.com/pack
